@@ -12,3 +12,5 @@ This CovidTrack app shows the current status of each country's confirmed,deaths 
 ![alt text](./src/components/images/Screenshot_1.png)
 ![alt text](./src/components/images/Screenshot_2.png)
 ![alt text](./src/components/images/Screenshot_3.png)
+
+https://github.com/hunter1995-2020/covid_tracker_heroku_deploy
